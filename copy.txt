@@ -1,0 +1,8 @@
+1|Paine|1
+2|Carne|20
+3|Fasole|8
+11|Naut|7
+13|Legume|5
+4|Sos|5
+123|Creveti|20
+44|Unt|5
